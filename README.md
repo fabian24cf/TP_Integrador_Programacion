@@ -89,7 +89,7 @@ cd algoritmos-busqueda-ordenamiento
 
 2. **Ejecutar el programa principal:**
 ```bash
-python main.py
+python busqueda_paradas.py
 ```
 
 3. **Navegar por el menú interactivo** para probar diferentes algoritmos
@@ -98,10 +98,14 @@ python main.py
 
 ```
 proyecto/
-├── main.py                    # Programa principal
+├── src/
+    └── busqueda_paradas.py    # Código
 ├── README.md                  # Este archivo
 ├── docs/
-    └── Trabajo Integrador - Búsqueda y ordenamiento - Fabian Cardozo, Lautaro Cejas - COM 11.pdf #Documentación completa
+    └── Trabajo Integrador - 
+    Búsqueda y ordenamiento - 
+    Fabian Cardozo, Lautaro Cejas - 
+    COM 11.pdf                 # Documentación completa
 
 ```
 
