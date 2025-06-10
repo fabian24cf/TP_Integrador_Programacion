@@ -89,6 +89,7 @@ cd algoritmos-busqueda-ordenamiento
 
 2. **Ejecutar el programa principal:**
 ```bash
+cd src
 python busqueda_paradas.py
 ```
 
